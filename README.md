@@ -12,7 +12,7 @@ Small enough to be tracked as a regular git file (no Git LFS needed).
 ## Download
 
 ```bash
-git clone https://github.com/prakash-emb/all-minilm-l6-v2-gguf.git
+git clone https://github.com/prakashsundar18/all-minilm-l6-v2-gguf.git
 cd all-minilm-l6-v2-gguf
 unzip all-minilm-l6-v2-q4_k_m.zip
 ```
